@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/christmas-tree/static/css/main.af28948e.css",
+    "main.css": "/christmas-tree/static/css/main.b7a7cbfa.css",
     "main.js": "/christmas-tree/static/js/main.45977f20.js",
     "static/js/787.3eea7ff9.chunk.js": "/christmas-tree/static/js/787.3eea7ff9.chunk.js",
     "index.html": "/christmas-tree/index.html",
-    "main.af28948e.css.map": "/christmas-tree/static/css/main.af28948e.css.map",
+    "main.b7a7cbfa.css.map": "/christmas-tree/static/css/main.b7a7cbfa.css.map",
     "main.45977f20.js.map": "/christmas-tree/static/js/main.45977f20.js.map",
     "787.3eea7ff9.chunk.js.map": "/christmas-tree/static/js/787.3eea7ff9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.af28948e.css",
+    "static/css/main.b7a7cbfa.css",
     "static/js/main.45977f20.js"
   ]
 }
