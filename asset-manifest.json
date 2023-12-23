@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KhoaNA2401/christmas-tree/static/css/main.d462bafd.css",
+    "main.js": "/KhoaNA2401/christmas-tree/static/js/main.7ea48801.js",
+    "static/js/787.3eea7ff9.chunk.js": "/KhoaNA2401/christmas-tree/static/js/787.3eea7ff9.chunk.js",
+    "index.html": "/KhoaNA2401/christmas-tree/index.html",
+    "main.d462bafd.css.map": "/KhoaNA2401/christmas-tree/static/css/main.d462bafd.css.map",
+    "main.7ea48801.js.map": "/KhoaNA2401/christmas-tree/static/js/main.7ea48801.js.map",
+    "787.3eea7ff9.chunk.js.map": "/KhoaNA2401/christmas-tree/static/js/787.3eea7ff9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d462bafd.css",
+    "static/js/main.7ea48801.js"
+  ]
+}
